@@ -70,7 +70,9 @@ You can change the test query by editing the `user_question` variable inside the
 ## 📂 Project Structure
 
 ```
-CineAgent/
+Agentic Movie Recommender Systems/
+├── assets/
+│   └── workflow_diagram.png   <-- รูปของคุณ
 ├── main.py             # Main script to build the graph and run the agent
 ├── agent_nodes.py      # Contains all the node functions (logic for each step)
 ├── config.py           # Handles model loading, data loading, and constants
