@@ -1,0 +1,8 @@
+langchain-huggingface
+langchain_community
+langgraph
+bitsandbytes
+torch
+transformers
+accelerate
+pandas
