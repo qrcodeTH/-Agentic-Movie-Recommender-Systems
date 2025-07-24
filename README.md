@@ -22,6 +22,9 @@ The goal of this project is to address the challenge of finding relevant movie r
   - **Category-based Search:** Flexibly finds movies matching either genres or keywords if no title is mentioned.
 - **Resilient & Data-Grounded:** Includes robust error handling and adaptive JSON parsing to manage and self-correct LLM output inconsistencies, ensuring reliable performance on the TMDB dataset.
 
+## 🎯 Workflow Diagram
+![CineAgent Workflow Diagram](./assets/workflow_diagram.png)
+
 ## 🛠️ Tech Stack
 
 - **Core Framework:** LangGraph
