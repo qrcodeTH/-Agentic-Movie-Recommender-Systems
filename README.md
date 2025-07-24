@@ -34,8 +34,8 @@ The goal of this project is to address the challenge of finding relevant movie r
 
 1.  **Clone the repository:**
     ```bash
-    git clone [[https://github.com/your-username/CineAgent.git](https://github.com/your-username/CineAgent.git)](https://github.com/qrcodeTH/-Agentic-Movie-Recommender-Systems.git)
-    cd CineAgent
+    git clone https://github.com/qrcodeTH/-Agentic-Movie-Recommender-Systems.git
+    cd -Agentic-Movie-Recommender-Systems
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
